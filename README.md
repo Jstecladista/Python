@@ -1,5 +1,6 @@
 # Python
+
 Repository with example Python
 
 
-testando
+Curso de Python com vários exemplos usando operadores, estrutura de repetição, operadores lógicos...
